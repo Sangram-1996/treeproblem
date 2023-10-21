@@ -18,6 +18,7 @@ public class Main {
 	       else max = Math.max(max, i-hm.get(arr[i]));
 	   }
 	   System.out.println(max);
+           System.out.println(max);
 
 
     }
